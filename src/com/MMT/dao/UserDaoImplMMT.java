@@ -31,7 +31,7 @@ public class UserDaoImplMMT implements UserDaoMMT {
 
 	@Override
 	public User search(String uid) {
-		
+		///search  
 		return null;
 	}
 
